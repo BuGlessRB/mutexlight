@@ -1,6 +1,6 @@
 {
   "name": "mutexlight",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "minimal mutex lirbary",
   "main": "mutexlight.js",
   "browser": "mutexlight.js",

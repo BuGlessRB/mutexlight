@@ -36,7 +36,7 @@ Exposed API-list:
   Returns a promise that resolves once the mutex lock has been acquired.
   The promise resolves to a release function which needs to be called as
   soon as the mutex lock needs to be released (acquired locks that are not
-  explicitly released will stay stuck in locked state indefinately).
+  explicitly released will stay stuck in locked state indefinitely).
   If `trylock` is true, the promise will resolve to zero immediately if the
   mutex lock has already been acquired.
 

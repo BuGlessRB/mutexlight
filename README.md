@@ -1,6 +1,8 @@
-<h1>wspromise</h1>
+<h1>mutexlight</h1>
 
 mutexlight is a zero-dependencies minimal mutex library.
+Mutexes are used to obtain exclusive locks to certain resources which
+are accessed asynchronously.
 
 ## Requirements
 

@@ -1,7 +1,7 @@
 {
   "name": "mutexlight",
-  "version": "1.0.2",
-  "description": "minimal mutex lirbary",
+  "version": "1.0.3",
+  "description": "minimal mutex library for asynchronous locking",
   "main": "mutexlight.js",
   "browser": "mutexlight.js",
   "dependencies": {},
@@ -11,7 +11,7 @@
     "type": "git", "url": "git://github.com/BuGlessRB/mutexlight"
   },
   "keywords": [
-    "lock", "mutex", "promise", "zerodeps"
+    "lock", "locking", "async", "asynchronous", "mutex", "promise", "zerodeps"
   ],
   "author": "Stephen R. van den Berg <srb@cuci.nl>",
   "license": "(ISC OR GPL-3.0)"

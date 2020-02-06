@@ -13,6 +13,9 @@
   "keywords": [
     "lock", "locking", "async", "asynchronous", "mutex", "promise", "zerodeps"
   ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "author": "Stephen R. van den Berg <srb@cuci.nl>",
   "license": "(ISC OR GPL-3.0)"
 }

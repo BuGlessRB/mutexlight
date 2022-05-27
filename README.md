@@ -15,7 +15,7 @@ The following sample code should speak for itself:
 ```js
 const mutexlight = require("mutexlight");
 
-const mutex = new mutexlight;
+const mutex = new mutexlight();
 
 async function runme() {
   const release = await mutex.acquire();        // Acquire mutex lock

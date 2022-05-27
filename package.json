@@ -1,6 +1,6 @@
 {
   "name": "mutexlight",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "minimal mutex library for asynchronous locking",
   "main": "mutexlight.js",
   "browser": "mutexlight.js",
